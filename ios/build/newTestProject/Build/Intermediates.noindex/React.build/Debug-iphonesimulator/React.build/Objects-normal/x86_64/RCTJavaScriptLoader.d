@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/ios/build/newTestProject/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/ios/build/newTestProject/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/ios/build/newTestProject/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/ios/build/newTestProject/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/ios/build/newTestProject/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/izeappsynth/Documents/ReactNative-Test/newTestProject/node_modules/react-native/React/Base/RCTPerformanceLogger.h
